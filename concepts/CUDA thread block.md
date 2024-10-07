@@ -1,0 +1,1 @@
+CUDA threads are grouped into blocks. These are easy to synchronize and threads within the block can share resources.

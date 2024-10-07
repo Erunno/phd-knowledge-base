@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "6df1569486a64df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b60a7a0fbf6180b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "412820c4a0b67573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/Efficient 3D stencil computations using CUDA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "057fbf68130af097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9df85f9b3128cc1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "x-papers-pdfs/efficient_3d_stencil.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c294c3339aa6f1a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27a713ab8c14a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50f5f225c7998aba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a03b1f43e3a5bbc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb4be0902da277b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d61c4a01d83627e",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e4d86a3d99f533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b9ef8649c6d823e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "papers/Efficient 3D stencil computations using CUDA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7efc03031126bf54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "papers/Efficient 3D stencil computations using CUDA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "325225e3b6bf1fd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7f8bc482c974e07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "papers/Efficient 3D stencil computations using CUDA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "412820c4a0b67573",
+  "lastOpenFiles": [
+    "x-papers-pdfs/efficient_3d_stencil.pdf",
+    "papers/Efficient 3D stencil computations using CUDA.md",
+    "x-imgs/Efficient-3D-stencil-computations/z-loop.png",
+    "x-imgs/Efficient-3D-stencil-computations/efficient_block_XY_tile_in_memory.png",
+    "papers/3.5-D Blocking Optimization for Stencil Computations on Modern CPUs and GPUs.md",
+    "x-papers-pdfs/auto-tun_stencils.pdf",
+    "x-imgs/Efficient-3D-stencil-computations",
+    "papers/Optimization Techniques for GPU Programming.md",
+    "x-papers-pdfs/survey_cuda_opt_techniques.pdf",
+    "concepts/2.5D Blocking.md",
+    "x-img.md",
+    "concepts/CUDA thread block.md",
+    "().md",
+    "x-imgs/efficient_block_XY_tile_in_memory.jpg",
+    "x-imgs",
+    "concepts/Stencil.md",
+    "concepts/Halo (or ghost) zones.md",
+    "papers/Auto-Generation and Auto-Tuning of 3D Stencil Codes on GPU Clusters.md",
+    "x-papers-pdfs/3.5D_Blocking_and_stencil.pdf",
+    "meetings/2024-10-09.md",
+    "meetings",
+    "x-papers-pdfs/3.5-D_Blocking_Optimization_for_Stencil_Computations_on_Modern_CPUs_and_GPUs.pdf.crdownload",
+    "README.md",
+    "3570638.pdf.md",
+    "x-papers-pdfs/2259016.2259037.pdf.crdownload",
+    "x-papers-pdfs/1-s2.0-S016781911300094X-main.pdf.crdownload"
+  ]
+}

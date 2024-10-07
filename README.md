@@ -1,1 +1,1 @@
-"# phd-knowledge-base" 
+Notes to the research.
